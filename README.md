@@ -1,1 +1,3 @@
-# machine_learning_intro
+# Machine Learning
+
+- lab1 - kNN digit recognizer
