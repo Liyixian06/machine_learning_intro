@@ -4,3 +4,4 @@
 - lab2 - regression model
 - lab3 - (non-)parameter estimation
 - lab4 - naive Bayes classifier
+- lab5 - hierarchical clustering
