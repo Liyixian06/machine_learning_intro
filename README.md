@@ -5,3 +5,4 @@
 - lab3 - (non-)parameter estimation
 - lab4 - naive Bayes classifier
 - lab5 - hierarchical clustering
+- lab6 - decision tree
