@@ -6,3 +6,4 @@
 - lab4 - naive Bayes classifier
 - lab5 - hierarchical clustering
 - lab6 - decision tree
+- lab7(final) - cell type clustering based on DL
